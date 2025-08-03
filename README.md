@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anissebendrihem&label=Profile%20views&color=0e75b6&style=flat" alt="anissebendrihem" /> </p>
 
-- 🌱 I’m currently learning **C**
+- I’m currently learning **C**
 
-- 📫 How to reach me **anisse.bendrihem@gmail.com**
+- How to reach me **anisse.bendrihem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
