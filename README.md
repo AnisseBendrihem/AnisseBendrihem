@@ -39,5 +39,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anissebendrihem&theme=dracula&hide_border=false&layout=compact" alt="Top Langs"/>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/img/gradient.png" width="75%" alt="Gradient image"/>
+    <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
 </div>
