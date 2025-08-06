@@ -7,7 +7,7 @@
 <h1 align="Center">About Me</h1>
 <p align="center">Anisse Bendrihem Developer from India.</p>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/img/gradient.png" width="75%" alt="Gradient image"/>
+    <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
 </div>
 
 ###
