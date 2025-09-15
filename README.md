@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://media.tenor.com/0JSNngGvy4wAAAAC/i-love-computers-it.gif" width="30%">
-</div>
-
 ###
 
 <h1 align="Center">About Me</h1>
