@@ -33,11 +33,11 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/anisse-bendrihem-160b8b326" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:anisse.bendrihem@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="48"/>
     </a>
 </p>
 
