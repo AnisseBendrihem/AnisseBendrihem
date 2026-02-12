@@ -1,39 +1,46 @@
-###
-
-<h1 align="Center">About Me</h1>
-<p align="center">Anisse Bendrihem Developer.</p>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
+
+# Anisse Bendrihem
+
+**Software Developer**
+
+<img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
+
 </div>
-
-###
-
-<h2 align="center">🌐 Socials</h2>
-<p align="center">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/anisse-bendrihem-160b8b326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo"/></a>
-    <img width="12" />
-    <a href="mailto:anisse.bendrihem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" height="25" alt="Email logo"/></a>
-</p>
-
-###
 
 <h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-    <img width="12"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,git,docker,linux&theme=dark" alt="Tech Stack"/>
+    </a>
 </p>
 
-###
+<h2 align="center">📊 Stats</h2>
 
-<h2 align="center">🔥 My Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anissebendrihem&theme=dracula&hide_border=false&layout=compact" alt="Top Langs"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=anissebendrihem&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anissebendrihem&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anissebendrihem&theme=github-dark&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
+</div>
+
+<h2 align="center">🌐 Contact</h2>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/anisse-bendrihem-160b8b326" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:anisse.bendrihem@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
 </div>
