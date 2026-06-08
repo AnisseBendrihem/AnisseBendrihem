@@ -34,11 +34,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/anisse-bendrihem-160b8b326" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:anisse.bendrihem@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="48"/>
-    </a>
 </p>
 
 <div align="center">
