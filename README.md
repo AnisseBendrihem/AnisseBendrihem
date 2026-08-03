@@ -1,41 +1,51 @@
 <div align="center">
 
-# Anisse Bendrihem
+<h1>Anisse Bendrihem</h1>
+<h3>Backend Developer</h3>
+<p><sub>Java · Spring · Architectures distribuées</sub></p>
 
-**Software Developer**
-
-<img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
+<img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt=""/>
 
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,git,docker,linux&theme=dark" alt="Tech Stack"/>
-    </a>
+  <sub><b>Langages</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,bash&theme=dark" alt="Langages"/>
+</p>
+
+<p align="center">
+  <sub><b>Backend &amp; Données</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=spring,maven,postgres&theme=dark" alt="Backend et données"/>
+</p>
+
+<p align="center">
+  <sub><b>Outils</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,idea&theme=dark" alt="Outils"/>
 </p>
 
 <h2 align="center">📊 Stats</h2>
 
-<div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=anissebendrihem&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anissebendrihem&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anissebendrihem&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anissebendrihem&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" height="170" alt="Top Languages"/>
+</p>
 
-<br/>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anissebendrihem&theme=github-dark&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anissebendrihem&theme=github-dark&hide_border=true&area=true&radius=8" width="90%" alt="Activity Graph"/>
+</p>
 
 <h2 align="center">🌐 Contact</h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/anisse-bendrihem-160b8b326" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/>
+  <a href="https://www.linkedin.com/in/anisse-bendrihem-160b8b326">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn"/>
+  </a>
 </p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt="Gradient image"/>
+
+<img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt=""/>
+
 </div>
