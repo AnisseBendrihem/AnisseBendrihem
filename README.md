@@ -3,7 +3,7 @@
 <h1>Anisse Bendrihem</h1>
 <h3>Backend Developer</h3>
 <p><sub>Java · Spring · Architectures distribuées</sub></p>
-<p><a href="https://anissebendrihem.github.io/FLY/"><b>Portfolio</b></a></p>
+<p><a href="https://anissebendrihem.github.io/FLY/" title="Portfolio"><img src="fly.svg" height="44" alt="Portfolio"/></a></p>
 
 <img src="https://raw.githubusercontent.com/anissebendrihem/anissebendrihem/main/gradient.png" width="75%" alt=""/>
 
