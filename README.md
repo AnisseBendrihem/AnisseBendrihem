@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anissebendrihem&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" height="170" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anissebendrihem&theme=github-dark&hide_border=true&area=true&radius=8" width="90%" alt="Activity Graph"/>
-</p>
-
 <h2 align="center">🌐 Contact</h2>
 
 <p align="center">
